@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+    width: 900px;
+    margin: auto;
+}
+p{
+    color: rgb(6, 87, 60);
+    font-size: large;
+    width: 300px;
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+}
